@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LG_Zopa", "LG_Zopa\LG_Zopa.csproj", "{F87BB4B1-F2A4-4528-B42D-C080C07C2581}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LG_Zopa.Test", "LG_Zopa.Test\LG_Zopa.Test.csproj", "{81264745-6701-42F9-885E-A3F560F38C3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F87BB4B1-F2A4-4528-B42D-C080C07C2581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F87BB4B1-F2A4-4528-B42D-C080C07C2581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F87BB4B1-F2A4-4528-B42D-C080C07C2581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F87BB4B1-F2A4-4528-B42D-C080C07C2581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81264745-6701-42F9-885E-A3F560F38C3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81264745-6701-42F9-885E-A3F560F38C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81264745-6701-42F9-885E-A3F560F38C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81264745-6701-42F9-885E-A3F560F38C3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
